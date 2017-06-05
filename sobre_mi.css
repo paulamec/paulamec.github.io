@@ -1,0 +1,37 @@
+body {
+    background-color: #000000;
+	background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center; 
+    width: auto;
+    height: 90vh;
+}
+.cuadrado {
+    width: auto;
+    height: 90vh;
+}
+.foto{
+   
+    	background-color: none;
+		width: 700px ;
+		height: 590px;
+		margin: auto;
+}
+.foti
+{
+    
+    position: absolute;
+    top: 26%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+    
+}
+.texto{
+     background-color: none;
+		width: 300px ;
+		height: 590px;
+		margin: auto;
+}
+    
+}

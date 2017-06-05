@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+	background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center; 
+    width: auto;
+    height: 90vh;
+}
+
+.contenedor {
+    width: auto;
+    height: 90vh;
+}
+
+.pagi {
+	
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    top: 60%;
+    transform: translateY(-50%);
+  
+    padding-left: 00px;
+    padding-right: 00px;
+    font-size: 32px;
+    background-color: color: white;
+    
+}
+
+.sobre_mi {
+    display: inline-block;
+    text-decoration: Trabajos;
+    font-size: 32px;
+    position: absolute;
+    top: 54%;
+    right: 10px;
+    transform: translateY(-50%);
+  
+  
+
+    padding-right: 00px;
+    color: white;
+	
+}
+.porfolio { font-size: 32px;
+    position: absolute;
+    top: 54%;
+    right: 100px;
+    transform: translateY(-50%);
+   padding-right: 40px;
+     
+}
+.yo { font-size: 32px;
+    position: absolute;
+    top: 54%;
+    right: 1600px;
+    transform: translateY(-50%);
+   padding-right: 40px;
+     
+}

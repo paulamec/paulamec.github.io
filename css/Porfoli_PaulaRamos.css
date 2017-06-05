@@ -1,0 +1,52 @@
+
+.dragon{
+	float: relative;
+	height: 365px;
+	margin: 5px;
+}
+.acabados{
+	float: relative;
+	height: 500px;
+	margin: 5px;
+}
+
+
+body 
+	{
+	background-color: white
+	}
+
+#contenido
+	{
+		background-color: none;
+		width: 1700px ;
+		height: 1090px;
+		margin: auto;
+		
+	}
+#contenido2	
+	{
+		background-color: none;
+		width: 1700px ;
+		height: 1090px;
+		margin: auto;
+	}
+#contenido3	
+	{
+		background-color: none;
+		width: 1700px ;
+		height: 1090px;
+		margin: auto;
+	}
+#contenido4	
+	{
+		background-color: none;
+		width: 1700px ;
+		height: 1090px;
+		margin: auto;
+	}
+
+
+
+
+	
