@@ -47,6 +47,13 @@ body
 	}
 
 
-
+.apartados {
+columns: 3;
+column-gap: 80px;
+}
+.apartados2 {
+columns: 2;
+column-gap: 80px;
+}
 
 	
